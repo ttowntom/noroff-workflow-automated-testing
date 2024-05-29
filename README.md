@@ -1,0 +1,1 @@
+[![Automated Unit Testing](https://github.com/ttowntom/noroff-workflow-automated-testing/actions/workflows/unit-test.yml/badge.svg)](https://github.com/ttowntom/noroff-workflow-automated-testing/actions/workflows/unit-test.yml)
